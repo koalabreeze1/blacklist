@@ -17,7 +17,7 @@ const users = [
   {
     id: "1027342647595106314",
     name: "drop19s",
-    image: "/image.jpeg",
+    image: "./image.jpeg",
     clip: 1,
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
     reason: "ZMyvE0YLK5uiHXu618TMayCmCRdMg5o4XtgQ41phWD3Z6XqB",
